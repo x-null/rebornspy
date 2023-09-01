@@ -1,2 +1,3 @@
-# reborn-masterserver
-Reborn Masterserver
+# Reborn Masterserver
+
+GameSpy masterserver replacement.
